@@ -1,2 +1,12 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 "It's fabulous"
 --- A SC workshop participant
+=======
+this is a test from 11:48. 
+>>>>>>> b09f70c2fbd6688e66c49c1c28b6a8a43b379739
+=======
+"It's fabulous"
+-- A SC workshop participant
+
+>>>>>>> 3ba830475cc5484724c5d64fcfd832aac24bd3eb
